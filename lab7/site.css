@@ -1,0 +1,15 @@
+html,
+body {
+  font-size: 14pt;
+}
+
+body {
+  background: rgb(36, 35, 35);
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  color: white;
+}
+
+main {
+  max-width: 75%;
+  margin: auto;
+}

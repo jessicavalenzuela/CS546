@@ -1,0 +1,19 @@
+{
+  "name": "lab10",
+  "version": "1.0.0",
+  "description": "Lab 10",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jessica Valenzuela 10422958",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "express-session": "^1.17.0",
+    "handlebars": "^4.7.6"
+  }
+}

@@ -1,0 +1,38 @@
+html,
+body, #three {
+  font-size: 14pt;
+}
+
+body {
+  background: rgb(36, 35, 35);
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  color: white;
+}
+h1, #three{
+  font-weight: bold;
+}
+p, #one, #three{
+  color:paleturquoise
+}
+ul, #two{
+  color: pink
+}
+p, ul, form, h2, #one, #two, a{
+  font-size: 12pt;
+  font-family: Helvetica, sans-serif ;
+}
+.success{
+  color: #28a745
+}
+.failure{
+  color: #dc3545
+}
+a{
+  color:white
+}
+
+
+main {
+  max-width: 75%;
+  margin: auto;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "description": "Lab 8",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jessica Valenzuela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.0",
+    "handlebars": "^4.7.3",
+    "mongodb": "^3.5.5",
+    "uuid": "^7.0.2"
+  }
+}

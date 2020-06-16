@@ -1,0 +1,61 @@
+html,
+body {
+  font-size: 14pt;
+}
+
+body {
+  background: rgb(243, 225, 225);
+  color: black;
+}
+h1{
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+  font-weight: bold;
+}
+p, ul, form, #one, #two{
+  font-size: 12pt;
+  font-family: Helvetica, sans-serif ;
+}
+#enter{
+  color: rgb(250, 87, 128);
+  font-weight: bold;
+}
+
+#phrase{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#button{
+  background: rgb(243, 139, 174);
+  color: whitesmoke
+
+}
+
+main, ol{
+  max-width: 75%;
+  margin: auto;
+}
+
+footer > p {
+  text-align: center;
+  font-size: 9px;
+  color: black
+}
+
+
+.is-palindrome, #blue{
+  color:#0000FF;
+  font-family: Helvetica, sans-serif ;
+  font-size: 12pt;
+
+}
+.not-palindrome, #red{
+  color: #FF0000;
+  font-family: Helvetica, sans-serif ;
+  font-size: 12pt;
+
+}
